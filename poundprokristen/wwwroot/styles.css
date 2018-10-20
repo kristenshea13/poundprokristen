@@ -13,6 +13,7 @@ ul {
     padding: 20px;
     list-style: none;
     box-shadow: rgb(0, 0, 0) 10px 10px;
+    background-color: white;
 }
 
 img {
@@ -25,7 +26,8 @@ a:visited, a {
 }
 
 #footer {
-    background-color: lime;
+    color: lime;
+    background-color: black;
 }
 
 h1 {
@@ -43,4 +45,18 @@ a.linkfont {
 
 time {
     font-size: smaller;
+}
+
+article {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid lime;
+    box-shadow: rgb(0, 0, 0) 10px 10px;
+}
+
+body {
+    background-image: url("images/stix-good.jpg");
+    background-color: #cccccc;
+    background-size: cover;
 }
