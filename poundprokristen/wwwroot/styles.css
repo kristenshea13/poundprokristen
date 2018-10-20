@@ -34,6 +34,10 @@ h1 {
     font-weight: bold;
 }
 
+h2.script {
+    font-style: oblique;
+}
+
 a.linkfont {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
